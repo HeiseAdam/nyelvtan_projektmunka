@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mitől különleges a 10.D?</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+
+
+</head>
+<body>
+    <div class="header">
+        <h1>Mitől különleges a 10.D?</h1>
+        <p>Nem csak egy osztály, hanem egy közösség.</p>
+    </div>
+    
+    <div class="container">
+        <div class="content-box">
+        <h2>Osztályunk teljesítménye</h2>
+        <p>Osztályunk kitűnik a szorgalmával és elkötelezettségével, hiszen mindig a legjobb teljesítmény elérésére törekszünk. Az átlagos tanulmányi eredményünk kiemelkedő, ami a kemény munkánknak és kitartásunknak köszönhető. Magatartásunk példamutató: tisztelettel fordulunk tanáraink és diáktársaink felé, felelősségteljesen végezzük feladatainkat, és aktívan részt veszünk az iskolai életben.</p>
+    </div>
+    <div class="content-box">
+        <h2>Tagozatok</h2>
+        <p>Mind a természettudományos, mind az informatikai tantárgyakban erősek vagyunk. Fizikából, kémiából és biológiából rendszeresen kiváló eredményeket érünk el, és örömmel veszünk részt versenyeken, projektekben, valamint kísérletekben, amelyek még jobban elmélyítik tudásunkat. Informatikából nemcsak az elméleti ismereteket sajátítjuk el, hanem a gyakorlati programozásban, algoritmusokban és egyéb technológiai kihívásokban is jeleskedünk.</p>
+        <p>Emellett más területeken is aktívak vagyunk: humán tantárgyakból is sokan kiemelkedő teljesítményt nyújtanak, részt veszünk sportversenyeken, művészeti tevékenységekben és iskolai rendezvényeken, ezzel is hozzájárulva közösségünk fejlődéséhez. Összetartó csapatként segítjük egymást, és büszkék vagyunk arra, hogy osztályunk nemcsak tanulmányi eredményeivel, hanem összetartásával és kreativitásával is kiemelkedik.</p>
+        <p>A 10.D sokszínűségének egyik fontos eleme a különböző tagozatok jelenléte, amelyek változatos érdeklődési köröket és tehetségeket egyesítenek. Osztályunk három fő szakirányt ölel fel, amelyek mindegyike hozzájárul ahhoz, hogy diákjaink a jövőben sikeresek legyenek a választott területükön.</p>
+        <ul><strong>🔹 Matematika-Fizika:</strong> A problémamegoldás mesterei.</li>
+        <ul><strong>🔹 Biológia-Kémia:</strong> A jövő orvosai és kutatói.</ul>
+        <ul><strong>🔹 Informatika:</strong> A digitális világ építői.</ul>
+        <p>Ez a három szakirány együtt alkotja osztályunk erejét, hiszen mindannyian más-más területen vagyunk kiemelkedőek, de közösen egy erős és sokoldalú közösséget formálunk.</p>
+        </div>
+        <h2>Értékeink</h2>
+        <div class="values"  style="--clr:#1e9bff">
+            <div class="value-box">
+                <value-box href="feladat/contact.html"><span>
+                    <h3>✅ Összetartás</h3>
+                    <p>Mindig számíthatunk egymásra, támogatjuk és segítjük a másikat.</p>
+                </span>
+                </value-box>
+
+            </div>
+            <div class="value-box">
+                <value-box href="#"><span>
+                    <h3>💡 Kitartás</h3>
+                    <p>Bármilyen nehézség jön, együtt megoldjuk, és soha nem adjuk fel.</p>
+                </span>
+                </value-box>
+            </div>
+            <div class="value-box">
+                <value-box href="#"><span>
+                    <h3>🎭 Sokszínűség</h3>
+                    <p>Mindenki hozzátesz valamit a közösséghez saját tehetségével és egyedi látásmódjával.</p>
+                </span>
+                </value-box>
+            </div>
+        </div>
+        <h2>Osztálykép</h2>
+        <div class="image-container">
+            
+            <img src="poszthozkep.png" alt="10.D osztálykép" />
+        </div>
+
+        <p class="quote">"Az osztály nem csupán emberek összessége. Az osztály egy család."</p>
+        
+        <h1>készítették</h1>
+
+        <div class="rgb-text">
+            <h4>Heise Ádám</h4>
+            <h4>Sisári Ádám</h4>
+            <h4>Kulyasssa Csaba</h4>
+
+            </div>
+        </div>
+    </div>
+
+    
+</body>
+</html>
